@@ -1,0 +1,1 @@
+echo "Starting project setup..."
